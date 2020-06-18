@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cheatsheet for AWS TECH U Associate Solutions Architect"
-author: sal
+author: farhan
 categories: [ AWS, Career, Fresh-Graduates, Tips ]
 comments: true
 ---
