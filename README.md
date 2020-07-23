@@ -1,4 +1,4 @@
-# mamlukzephyr.com - A place where I try to put my thoughts together.
+# mamlukzephyr.me - A place where I try to put my thoughts together.
 
 > I'm a cloud engineer based in Malaysia  with deep interest in Cloud Native and DevOps movement.
 
